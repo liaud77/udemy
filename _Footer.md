@@ -1,0 +1,1 @@
+Getting Started as User Assistance Developer - The Best Course on Technical Writing, Instructional Videos and Instructional Graphics Creation!
