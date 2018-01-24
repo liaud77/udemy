@@ -16,5 +16,13 @@ When writing your pages, make sure you keep the different types of information c
 | Task | Use it to provide instructional information, answering the question "How to do this?" |
 | Reference | Use it to provide additional information, such as a table with reference values, or additional information |
 ## Concept
+### Short Summary
+_In this section provide a brief summary of the conceptual information you plan to provide. This should allow the users to understand what they will find on this page._
+### Detailed Overview
+_In this section provide the details related to your conceptual conceptual information. This should allow the users to deep dive into understanding the concept. Use appropriate graphic or a video files to explain the details._
+### Example
+_In this section provide an example of the conceptual information you plan to provide. A specific example often helps your users better understand a concept._
+
+
 ## Task
 ## Reference
