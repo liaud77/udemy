@@ -1,5 +1,5 @@
 # Overview
-In the following example, I will create a set of example pages. You can use them as guidance on how to organize your own content.
+Here you can find a set of example pages. You can use them as guidance on how to organize your own pages on GitHub.
 # Instructions
 1. Choose the project to document.
 2. Define your target audience.
