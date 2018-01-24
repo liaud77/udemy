@@ -37,3 +37,7 @@ _In this section provide information on the expected result, once the user perfo
 _In this section example on performing the steps to achieve the expected result._
 
 ## Reference
+### Summary
+_In this section provide a brief summary of the reference information plan to provide. This should allow the users to understand what they will find on this page._
+### <Freestyle Heading>
+_Choose an appropriate heading for your reference information, then list it. Often the table format fits nice for reference information._
