@@ -1,1 +1,1 @@
-Getting Started as User Assistance Developer - The Best Course on Technical Writing, Instructional Videos and Instructional Graphics Creation! By Jordan Stanchev
+[https://jpdocu.teachable.com/](https://jpdocu.teachable.com/) By Jordan Stanchev
