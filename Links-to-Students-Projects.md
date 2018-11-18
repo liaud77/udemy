@@ -3,5 +3,5 @@ Here is the list of students that shall contribute to this part of the wiki page
 ***
 *#*| Student | FN | Link |
 --- | --- | --- | --- |
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+1 | Jordan Stanchev | 1234 | [Link](https://github.com/JordanStanchev/Getting-Started-as-User-Assistance-Developer/wiki/Students-List)
+2 | ... | ... | ... |
