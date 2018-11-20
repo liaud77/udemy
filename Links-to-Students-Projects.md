@@ -8,3 +8,6 @@ Here is the list of students that shall contribute to this part of the wiki page
 3 | Dimitar Stanev | F92844 | [Link](https://github.com/dimitar-staneff/docu-2018/wiki/Properly-use-a-search-engine) |
 4 | Rumi Krumova | F89285 | [Link](https://github.com/rkrumova97/HelloByRumy/wiki) |
 5 | Nikolay Yordanov | F84149 | [Link](https://github.com/forenec/docu-2018/wiki/Home/_edit) |
+6 | Zhenya Tsonkova |  | [Link](https://github.com/ZhenyaTsonkova/TechWritingProject1/wiki) |
+7 | Presiana Simova |  | [Link](https://github.com/Grufo8/docu-2018/wiki) |
+8 | Михаил Митев |  | [Link](https://github.com/mishomitev/doc1/wiki) |
