@@ -1,7 +1,7 @@
 You need to pay 1.60 BGN for a single person ticket. If you carry a large bag, purchase additional ticket (again 1.60 BGN) for it too. Children younger than 6 years travel free of charge – no need to purchase a ticket for them.
 # Steps
 
-
+![Describes How to Purchase a Ticket from the Bus Driver](https://github.com/JordanStanchev/Getting-Started-as-User-Assistance-Developer/blob/master/BusTicket.PNG)
 1. Prepare the money before you get on the bus. 
 2. Get in the bus from the front door. 
 3. Ask the driver for a ticket, by saying: “Bilet, molia”.
