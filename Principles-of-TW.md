@@ -1,0 +1,1 @@
+![Info-graphic explaining the principles of technical writing](https://github.com/JordanStanchev/Getting-Started-as-User-Assistance-Developer/blob/master/Principles%20of%20technical%20writing%20(2).jpg)
