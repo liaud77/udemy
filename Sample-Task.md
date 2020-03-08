@@ -1,6 +1,6 @@
 # How to Sum Up
 ### Summary
-As a new user of the Calculator app, you can sum up numbers. This helps you to perform arithmetic operations, no matter if you need to sum up small or large numbers. 
+As a new user of the Calculator app, you can sum up numbers. This helps you perform arithmetic operations, no matter if you need to sum up small or large numbers. 
 ### Prerequisites
 You have started the Calculator app.
 ### Steps
