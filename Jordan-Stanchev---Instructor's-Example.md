@@ -19,7 +19,7 @@ When writing your pages, make sure you keep the different types of information c
 ### Summary
 _In this section provide a brief summary of the conceptual information you plan to provide. This should allow the users to understand what they will find on this page._
 ### Detailed Overview
-_In this section provide the details related to your conceptual conceptual information. This should allow the users to deep dive into understanding the concept. Use appropriate graphic or a video files to explain the details._
+_In this section provide the details related to your conceptual information. This should allow the users to deep dive into understanding the concept. Use appropriate graphic or video files to explain the details._
 ### Example
 _In this section provide an example of the conceptual information you plan to provide. A specific example often helps your users better understand a concept._
 
@@ -28,9 +28,9 @@ _In this section provide an example of the conceptual information you plan to pr
 ### Summary
 _In this section provide a brief summary of the task or procedure information you plan to provide. This should allow the users to understand what they will achieve when following the steps described on this page._
 ### Prerequisites
-_In this section provide a information on the steps, knowledge, or artifacts that the users needs to have before trying to follow the steps of your task. This should ensure that the users are properly prepared to perform the steps described on this page._
+_In this section provide information on the steps, knowledge, or artifacts that the users need to have before trying to follow the steps of your task. This should ensure that the users are properly prepared to perform the steps described on this page._
 ### Steps
-_In this section provide the steps that the users needs to follow to achieve the needed result. Make sure you focus on the exact steps that the user needs to perform._
+_In this section provide the steps that the users need to follow to achieve the needed result. Make sure you focus on the exact steps that the user needs to perform._
 ### Result
 _In this section provide information on the expected result, once the user performs the steps of the task._
 ### Example
