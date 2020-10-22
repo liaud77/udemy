@@ -1,6 +1,6 @@
 # Table of Contents
-1. [My Topic Title](#My Topic Title)
-2. [My topic subtitle](##My topic subtitle)
+1. [My Topic Title](#My-Topic-Title)
+2. [My topic subtitle](#my-topic-subtitle)
 
 
 # My Topic Title
