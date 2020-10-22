@@ -9,4 +9,15 @@ Here comes my text. The next one is a set of steps:
 1. 
 1. 
 
-> text
+> text for a quote 
+
+| col1 | col2| col3 |
+--- | --- | ---
+
+Tables in the wiki:
+
+| **Information type** | **Description** |
+ --- | ---
+| Concept | Use it to provide conceptual information, answering the question "What is this?" |
+| Task | Use it to provide instructional information, answering the question "How to do this?" |
+| Reference | Use it to provide additional information, such as a table with reference values, or additional information |
