@@ -1,3 +1,8 @@
+# Table of Contents
+1. [My Topic Title](#My Topic Title)
+2. [My topic subtitle](##My topic subtitle)
+
+
 # My Topic Title
 ## My topic subtitle
 Here comes my text. The next one is a set of steps:
