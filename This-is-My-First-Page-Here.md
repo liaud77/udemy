@@ -21,3 +21,5 @@ Tables in the wiki:
 | Concept | Use it to provide conceptual information, answering the question "What is this?" |
 | Task | Use it to provide instructional information, answering the question "How to do this?" |
 | Reference | Use it to provide additional information, such as a table with reference values, or additional information |
+
+![image](https://github.com/JordanStanchev/Getting-Started-as-User-Assistance-Developer/blob/master/rufous-5111260_640.jpg)
