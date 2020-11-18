@@ -1,1 +1,1 @@
-[https://jpdocu.teachable.com/](https://jpdocu.teachable.com/) By Jordan Stanchev
+[https://jpdocu.com/](https://jpdocu.com/) By Jordan Stanchev
