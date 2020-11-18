@@ -28,3 +28,9 @@ Tables in the wiki:
 | Reference | Use it to provide additional information, such as a table with reference values, or additional information |
 
 ![image](https://github.com/JordanStanchev/Getting-Started-as-User-Assistance-Developer/blob/master/rufous-5111260_640.jpg)
+
+<div align="left">
+      <a href="https://www.youtube.com/watch?v=Z-vZuBX0Cmk">
+         <img src="https://img.youtube.com/vi/Z-vZuBX0Cmk/0.jpg" style="width:100%;">
+      </a>
+</div>
