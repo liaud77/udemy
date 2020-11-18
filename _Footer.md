@@ -1,1 +1,1 @@
-[https://jpdocu.com/](https://jpdocu.com/) By Jordan Stanchev
+[www.jpdocu.com](www.jpdocu.com) By Jordan Stanchev
