@@ -8,6 +8,6 @@ The contact person for the documentation project is _**[jordan.stanchev@jpdocu.c
 
 |Topic Title | Information type | Description | Responsible Person|  Status|
 | --| --- | --- | -- | -- |
-|| Concept | Use it to provide conceptual information, answering the question "What is this?" | Jordan | not started |
-|| Task | Use it to provide instructional information, answering the question "How to do this?" | Jordan | in progress |
-|| Reference | Use it to provide additional information, such as a table with reference values, or additional information | Jordan | done |
+|What is Microsoft Excel?| Concept | Use it to provide conceptual information, answering the question "What is this?" | Jordan | not started |
+|How to Create a New Excel File | Task | Use it to provide instructional information, answering the question "How to do this?" | Jordan | in progress |
+|Default Theme Fonts in Excel | Reference | Use it to provide additional information, such as a table with reference values, or additional information | Jordan | done |
