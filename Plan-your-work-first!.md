@@ -12,8 +12,12 @@ The contact person for the documentation project is _**[jordan.stanchev@jpdocu.c
 | How to Move Content from One Cell into Another | Task | Document the Cut function on the Home tab page in Excel. | Jordan | in progress |
 |How to Create a New Excel File | Task | Use it to provide instructional information, answering the question "How to do this?" | Jordan | in progress |
 | Working with Documents | Concept | | | not started |
-| Saving the open document with another title | Task|  | | not started |
-| Save an open document | Task |  | | not started |
+| Create a new document | Task|  |  | not started |
 | Opening an existing document | Task|  |  | not started |
+| Save an open document | Task |  | | not started |
+| Saving the open document with another title | Task|  | | not started |
+
+
+
 | Formatting text | Reference | Just describe what formatting options are available | | not started |
 
