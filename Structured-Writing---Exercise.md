@@ -9,7 +9,7 @@ According to Wikipedia, the history of arithmetic includes the period from the e
 
 The application allows you to apply all that knowledge in one! Multiply the numbers the same way you did with the subtraction process. But remember, you must choose the * button to complete the process! Alternatively, use the / button to divide numbers, as you desire.
 
-The results you get in the end are the perfectly calculated numbers that you needed!
+The results you get in the end are the perfectly calculated numbers that you needed! 
 
 This is such a great and simple to use software! 
 Check out our advanced operations too!
