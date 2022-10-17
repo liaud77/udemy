@@ -1,6 +1,6 @@
 # Using the Calculator App
 
-In this topic, you can find information about the calculator app. This application is the best way for you to perform arithmetical operations such as addition, subtraction, multiplication, division of numbers.
+In this topic, you can find information about the calculator app. This application is the best way for you to perform arithmetical operations such as addition, subtraction, multiplication, and division of numbers.
 
 To sum up two numbers you must first start the application. Enter the first number, then press the + button. You can also subtract numbers - press the - button in this case.
 
@@ -11,7 +11,7 @@ The application allows you to apply all that knowledge in one! Multiply the numb
 
 The results you get in the end are the perfectly calculated numbers that you needed! 
 
-This is such a great and simple to use software! 
+This is such a great and simple-to-use software! 
 Check out our advanced operations too!
 
 
@@ -45,6 +45,6 @@ The application allows you to apply all that knowledge in one! Multiply the numb
 
 The results you get in the end are the perfectly calculated numbers that you needed!
 
-This is such a great and simple to use software! 
+This is such great and simple-to-use software! 
 Check out our advanced operations too!
 
