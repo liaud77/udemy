@@ -1,5 +1,10 @@
 ![Info-graphic explaining the principles of technical writing](https://github.com/JordanStanchev/Getting-Started-as-User-Assistance-Developer/blob/master/Principles%20of%20technical%20writing%20(2).jpg)
 
+<a href="[url](https://github.com/JordanStanchev/Getting-Started-as-User-Assistance-Developer/blob/master/Principles%20of%20technical%20writing%20(2).jpg)"><img src="https://github.com/JordanStanchev/Getting-Started-as-User-Assistance-Developer/blob/master/Principles%20of%20technical%20writing%20(2).jpg" width="100" ></a>
+
+<a href="[url](https://github.com/JordanStanchev/Getting-Started-as-User-Assistance-Developer/blob/master/Principles%20of%20technical%20writing%20(2).jpg)"><img src="https://github.com/JordanStanchev/Getting-Started-as-User-Assistance-Developer/blob/master/Principles%20of%20technical%20writing%20(2).jpg" width="50" ></a>
+
+
 Principle #1: Decide whom are your writing for!
 Principle #2: Decide on the information needs of your user
 
